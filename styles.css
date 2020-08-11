@@ -1,15 +1,16 @@
 body {
     background-color: black;
     color: white;
-    width:1024px;
-
+    width:520px;
+    margin: 0px auto;
 }
 img {
     display:inline-block;
-    margin: 2px;
-    border: 4px;
+    margin: 1px;
+    border: 2px;
     border-style: solid;
     border-color: white;
+    height: 240px;
 }
 .smalltext {
     font-size: small;
